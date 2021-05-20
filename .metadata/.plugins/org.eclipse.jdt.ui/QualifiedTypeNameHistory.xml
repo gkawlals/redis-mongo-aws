@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.awt.List"/>
+    <fullyQualifiedTypeName name="org.springframework.data.mongodb.core.MongoTemplate"/>
+    <fullyQualifiedTypeName name="org.apache.log4j.Logger"/>
+    <fullyQualifiedTypeName name="javax.swing.text.Document"/>
+    <fullyQualifiedTypeName name="com.mongodb.client.MongoCollection"/>
+    <fullyQualifiedTypeName name="org.bson.Document"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="poly.util.CmmUtil"/>
+    <fullyQualifiedTypeName name="org.aspectj.weaver.patterns.ThisOrTargetAnnotationPointcut"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+</qualifiedTypeNameHistroy>

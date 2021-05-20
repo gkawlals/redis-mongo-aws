@@ -1,0 +1,19 @@
+INDEX VERSION 1.131
+/Users/hamjimin/Desktop/Spring_Settings/Spring_Redis2/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2162340782.index
+/Spring_MovieCrawl/src
+/Users/hamjimin/Desktop/Spring_Redis2/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3973984896.index
+/Spring_MovieCrawl/src
+/Users/hamjimin/Desktop/Spring_Settings/Spring_Redis2/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1601324572.index
+/Spring_MovieCrawl/src
+/Users/hamjimin/Desktop/Spring_Settings/Spring_Redis2/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2996198483.index
+/Spring_MovieCrawl/src
+/Users/hamjimin/Desktop/Spring_Settings/Spring_Redis2/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3973984896.index
+/Spring_MovieCrawl/src
+/Users/hamjimin/Desktop/Spring_Redis2/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2996198483.index
+/Spring_MovieCrawl/src
+/Users/hamjimin/Desktop/Spring_Redis2/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1601324572.index
+/Spring_MovieCrawl/src
+/Users/hamjimin/Desktop/Spring_Settings/Spring_Redis2/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/145693457.index
+/SpringPRJforAwsMariaDB/src
+/Users/hamjimin/Desktop/Spring_Settings/Spring_Redis2/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2683414022.index
+/SpringPRJforAwsMariaDB/src
